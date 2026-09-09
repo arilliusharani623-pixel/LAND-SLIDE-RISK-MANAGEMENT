@@ -36,7 +36,7 @@ This project helps in:
 
 ## Project Structure
 
-``text
+text
 LAND SLIDE RISK MONITORING SYSTEM (1)/
 ├── README.md
 ├── start_backend.bat
@@ -67,7 +67,6 @@ LAND SLIDE RISK MONITORING SYSTEM (1)/
 │   ├── Untitled0 (1).ipynb
 │   └── ...
 └── ...
-
 
 ##Activate a virtual environment
 python -m venv .venv
